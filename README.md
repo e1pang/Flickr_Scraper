@@ -1,5 +1,5 @@
 # Flickr_Scraper
-Flickr Image Scraper
+Flickr Image Scraper: Look inside the 'if __name__ == '__main__':' and the 'run' function to see examples and notes on how to run.
 
 modules required:
 ```python
@@ -38,5 +38,5 @@ Con:
 - Slow for two reasons: download will take longer and the implementation to get these images involved jumping through more hoops
 
 
-Look inside the 'if __name__ == '__main__':' and the 'run' function to see examples and notes.
+
 
