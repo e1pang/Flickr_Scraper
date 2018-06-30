@@ -29,9 +29,10 @@ Con:
 - Will give an unavailable image if specified size does not exist (search will continue with next image)
 
 
+
 #### Flickr_Slow
 Pro: 
-- Will get you the largest possible size guaranteed (the robust, quality alternative if you have fast internet)
+- Guaranteed to get you the largest possible size (the robust, quality alternative if you have fast internet and want every picture at the biggest size)
 
 Con: 
 - Slow for two reasons: download will take longer and the implementation to get these images involved jumping through more hoops
