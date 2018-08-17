@@ -12,11 +12,11 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 ```
 
-Can scrape images given links to a photostream (such as https://www.flickr.com/photos/141159174@N07/) or an album (such as https://www.flickr.com/photos/parismadrid/albums/72157652417586970).
+Can scrape images given links to a [photostream](https://www.flickr.com/photos/141159174@N07/) or an [album.](https://www.flickr.com/photos/parismadrid/albums/72157652417586970)
 
 Can also be given as keyword (such as 'dog').
 
-Note: Searching with a keyword involves (automated) scrolling and loading a lot of images, so I recommend photostreams and albums if possible.
+Note: Searching with a keyword involves (automated) scrolling and loading a lot of images, so I recommend photostreams and albums if possible. I wonder if this is Flickr's way of preventing anyone from easily stealing their millions of dog images.
 
 
 #### Flickr_Fast 
